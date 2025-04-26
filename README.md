@@ -47,4 +47,4 @@ The development server will start at `http://localhost:5173` by default.
 
 ## Building
 
-The build process will create a production-ready bundle in the `dist` directory. 
+The build process will create a production-ready bundle in the `dist` directory.
